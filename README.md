@@ -69,3 +69,6 @@ task-workspace/
 
 The exact files can change by domain. The important rule is that the agent records enough context for another engineer to understand what was tried, what passed validation, and why the final candidate was selected.
 
+## License
+
+All source code, repository content, documentation, and prompt content in this repository are licensed under CC BY-NC 4.0. See `LICENSE`.
